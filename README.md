@@ -30,7 +30,7 @@ Currently exploring Data Structures, Algorithms, and Full Stack Development.
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: (add link)
-- Email: (optional)
+- LinkedIn:https://www.linkedin.com/in/akriti-rawat-01102004-/
+- Email: akritirawat12345@gmail.com
 
 
