@@ -1,16 +1,36 @@
 ## Hi there 👋
+# Hi, I'm Akriti 👋
 
-<!--
-**akrity01/akrity01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (3rd Year)  
+💻 Aspiring Software Engineer  
+🤖 Interested in AI + Real-world problem solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I enjoy building applications that solve real-world problems using software and AI.  
+Currently exploring Data Structures, Algorithms, and Full Stack Development.
+
+---
+
+## 🛠️ Tech Stack
+- Languages: C, C++, Java, Python  
+- Web: HTML, CSS, JavaScript  
+- Concepts: DSA, OOP, DBMS  
+- Tools: Git, GitHub  
+
+---
+
+
+## 📈 Currently Working On
+- Improving DSA for placements  
+- Building full-stack projects  
+- Exploring AI-based solutions  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (add link)
+- Email: (optional)
+
+
