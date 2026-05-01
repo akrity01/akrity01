@@ -1,4 +1,4 @@
-## Hi there 👋
+
 # Hi, I'm Akriti 👋
 
 🎓 B.Tech CSE (3rd Year)  
