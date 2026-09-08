@@ -1,7 +1,7 @@
 
 # Hi, I'm Akriti 👋
 
-🎓 B.Tech CSE (3rd Year)  
+🎓 B.Tech CSE (4th Year)  
 💻 Aspiring Software Engineer  
 🤖 Interested in AI + Real-world problem solving  
 
